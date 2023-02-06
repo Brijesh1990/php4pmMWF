@@ -1,0 +1,16 @@
+body 
+{
+    background-color: antiquewhite;
+}
+div 
+{
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+div p 
+{
+    column-count: 2;
+    column-gap: 45px;
+    text-align: justify;
+}
